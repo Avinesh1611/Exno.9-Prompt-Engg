@@ -1,8 +1,8 @@
 # 📘 Experiment No. 9  
 ## Exploration of Prompting Techniques for AI-Based Video Generation
 
-**Date:**  
-**Register No.:**
+**Name: Avinesh P**  
+**Register No.:212222060022**
 
 ---
 
