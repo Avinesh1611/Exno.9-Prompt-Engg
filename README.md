@@ -54,7 +54,7 @@ To explore and understand various prompting techniques used for generating and m
 ---
 
 ## 📝 Example Prompt Used
-
+A person in a red jacket walking along a sunny park pathway, with birds flying in the sky, and a dog running beside them.
 ---
 
 ## 🖥️ System Response (from AI Video Generation App)
